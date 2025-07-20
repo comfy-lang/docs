@@ -3,7 +3,10 @@ languageCode = 'en-us'
 title = 'Comfy Language Documentation'
 
 [params]
-google_fonts = [["Inter", "300, 400, 600, 700"]]
+google_fonts = [["Inter", "300, 400, 600, 700"], ["JetBrains Mono", "400, 500, 600, 700"]]
+sans_serif_font = "Inter"
+secondary_font = "Inter"
+mono_font = "JetBrains Mono"
 
 [module]
 [[module.imports]]
