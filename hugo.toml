@@ -20,7 +20,7 @@ disable = false
 unsafe = true
 
 [[menu.primary]]
-name = "Docs"
+name = "Documentation"
 url = "/docs/"
 identifier = "docs"
 weight = 10
