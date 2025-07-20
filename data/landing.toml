@@ -6,7 +6,7 @@ title = "Comfy Documentation"
 subtitle = "Here you can find the official documentation for the comfy programming lanugage."
 
 [hero.badge]
-text = "v0.1.0"
+text = "v0.0.1"
 color = "primary"
 pill = false
 soft = true
